@@ -32,6 +32,7 @@ I focus on practical cybersecurity: solving CTF challenges, studying binary expl
 |---|---|---|
 | [**Port Scanner**](https://github.com/MOOKTY/port-scanner) | Lightweight sequential TCP connect scanning with target and port-range validation, configurable timeouts, and safe socket cleanup. Built for authorized labs and networking education. | Python · TCP/IP · Sockets |
 | [**Password Strength Checker**](https://github.com/MOOKTY/password-strength-checker) | Local password strength evaluation using five simple checks: minimum length, uppercase letter, lowercase letter, digit, and special character. | Python · Regex · pyfiglet |
+| [**Hi Shin V1**](https://github.com/MOOKTY/hi-shin-v1) | Menu-driven security utility for system information, file analysis, DNS and service lookup, sequential TCP port scanning, and active INET connections. | Python · psutil · Sockets · CLI |
 
 Additional security projects will be added one at a time after source review, secrets scanning, and documentation.
 
