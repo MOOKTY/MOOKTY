@@ -28,7 +28,7 @@
     <animateTransform attributeName="transform" type="rotate" from="0 180 180" to="360 180 180" dur="14s" repeatCount="indefinite"/>
   </circle>
   <circle cx="180" cy="180" r="143" fill="#050b12" stroke="#4be8ff" stroke-width="1.5" opacity="0.95"/>
-  <image x="43" y="43" width="274" height="274" preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)" href="https://raw.githubusercontent.com/MOOKTY/MOOKTY/main/assets/profile/pfp%20git.png" xlink:href="https://raw.githubusercontent.com/MOOKTY/MOOKTY/main/assets/profile/pfp%20git.png"/>
+  <image x="43" y="43" width="274" height="274" preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)" href="https://raw.githubusercontent.com/MOOKTY/MOOKTY/main/assets/profile/portrait.jpg" xlink:href="https://raw.githubusercontent.com/MOOKTY/MOOKTY/main/assets/profile/portrait.jpg"/>
   <circle cx="180" cy="180" r="137" fill="none" stroke="#8af7ff" stroke-width="1.5" opacity="0.8"/>
   <circle cx="180" cy="180" r="167" fill="none" stroke="#00e5ff" stroke-width="1" stroke-dasharray="3 14" opacity="0.42">
     <animateTransform attributeName="transform" type="rotate" from="360 180 180" to="0 180 180" dur="24s" repeatCount="indefinite"/>
