@@ -28,7 +28,11 @@ I focus on practical cybersecurity: solving CTF challenges, studying binary expl
 
 ## Featured projects
 
-Security projects are being added one at a time after source review, secrets scanning, and documentation. No capability is listed here until it has been verified against the code.
+| Project | Focus | Stack |
+|---|---|---|
+| [**Port Scanner**](https://github.com/MOOKTY/port-scanner) | Lightweight sequential TCP connect scanning with target and port-range validation, configurable timeouts, and safe socket cleanup. Built for authorized labs and networking education. | Python · TCP/IP · Sockets |
+
+Additional security projects will be added one at a time after source review, secrets scanning, and documentation.
 
 ## Technical orbit
 
