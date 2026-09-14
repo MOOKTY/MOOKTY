@@ -6,11 +6,6 @@
   </picture>
 </div>
 
-<p align="center">
-  <img src="./assets/profile/portrait-glow.svg" alt="Mohammad Okasha portrait with animated cyan neon ring" width="300">
-</p>
-<p align="center"><sub>CYBERSECURITY · CTF · PWN · SECURITY TOOLING</sub></p>
-
 ```console
 mohammad@lab:~$ ./identify --concise
 identity  Mohammad Okasha
