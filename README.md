@@ -31,6 +31,7 @@ I focus on practical cybersecurity: solving CTF challenges, studying binary expl
 | Project | Focus | Stack |
 |---|---|---|
 | [**Port Scanner**](https://github.com/MOOKTY/port-scanner) | Lightweight sequential TCP connect scanning with target and port-range validation, configurable timeouts, and safe socket cleanup. Built for authorized labs and networking education. | Python · TCP/IP · Sockets |
+| [**Password Strength Checker**](https://github.com/MOOKTY/password-strength-checker) | Local password strength evaluation using five simple checks: minimum length, uppercase letter, lowercase letter, digit, and special character. | Python · Regex · pyfiglet |
 
 Additional security projects will be added one at a time after source review, secrets scanning, and documentation.
 
